@@ -8,7 +8,9 @@ Make sure you have python installed, you can do this by going to command prompt,
 Python 3.10.5
 Type "help", "copyright", "credits" or "license" for more information.
 
-If it does not, you can go to the Microsoft store, and download "Python 3.10", then repeat to make sure it has worked.'
+If it does not, you can go to the Microsoft store, and download "Python 3.10", then repeat to make sure it has worked.
+
+Now, you need to download vlc from here: https://www.videolan.org/vlc/download-windows.html
 
 Next, download this repository. 
 
