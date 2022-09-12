@@ -10,7 +10,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 If it does not, you can go to the Microsoft store, and download "Python 3.10", then repeat to make sure it has worked.
 
-Now, you need to download vlc from here: https://www.videolan.org/vlc/download-windows.html
+Now, you need to download vlc from here: https://download.cnet.com/VLC-Media-Player-64-bit/3000-13632_4-75761094.html
 
 Next, download this repository. 
 
