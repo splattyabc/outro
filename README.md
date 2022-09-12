@@ -14,7 +14,7 @@ Next, download this repository.
 
 You can do this by first downloading git from here: https://gitforwindows.org. Then go to command prompt, and type "git clone https://github.com/splattyabc/outro" and press enter. The folder can then be found (by default) in C:/users/yourusername/outro.
 
-Now, download vlc from the downloader in the folder.
+Now, download vlc from here: https://download.cnet.com/VLC-Media-Player-64-bit/3000-13632_4-75761094.html
 
 Next, right click the "outro.py" file. There should be an option to "Edit with IDLE". Select this, then copy the path to the folder you have just downloaded, and paste it in the gap on the 5th line (there is some red text showing where it goes, make sure to remove the gap after this).
 
